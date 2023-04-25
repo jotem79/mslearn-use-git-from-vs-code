@@ -1,14 +1,14 @@
 ---
 page_type: sample
 languages:
-- csharp
+- javascript
 products:
 - dotnet
 description: "Add 150 character max description"
 urlFragment: "update-this-to-unique-url-stub"
 ---
 
-# Official Microsoft Sample
+# Official Microsoft Sample modified by jotem79
 
 <!-- 
 Guidelines on README format: https://review.docs.microsoft.com/help/onboard/admin/samples/concepts/readme-template?branch=master
